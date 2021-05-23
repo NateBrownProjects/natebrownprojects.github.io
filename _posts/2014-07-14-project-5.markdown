@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2021-05-09
+img: mmm-hive.png
+alt: image-alt
+project-date: April 2014
+client: The H.I.V.E Project
+category: Web Development
+description: This is a module available to users who use MichMich's Magic Mirror Software. This combines H.I.V.E and MMM to work together without issues. This project requires TheHiveProject. This project is available at https://Github.com/NateBrownProjects/MMM-Hive
+---

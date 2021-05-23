@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2021-05-9
+img: up.png
+alt: image-alt
+project-date: May 2021
+client: Nate Brown Projects Team
+category: AI, Python, OpenSource
+description: The H.I.V.E Project is an opensource AI avaiable on GitHub. H.I.V.E stands for Home-Assistant Integrated Virtual Environment. H.I.V.E is an AI that is being heavily developed on our GitHub Page, and will dive into Automation, Machine Learning and Statistics.
+
+---
